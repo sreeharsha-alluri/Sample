@@ -1,5 +1,5 @@
-# car-rentals (18-March-2020)
-This is online app to rent your car
+# testing application
+This is online app to test the applications
 
 # Google Docs Notes Link
 [Google Docs Running Notes](https://docs.google.com/document/d/1zW34VFRx9proU-769qXs_vqgiuKneCA-MPoUBMoiQnQ/edit?usp=sharing)
